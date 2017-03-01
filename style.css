@@ -1,0 +1,26 @@
+* {
+    margin-left: 20px;
+}
+.title{
+    padding-top: 1px;
+    width:1000px; height: 75px;
+    background-color: #07FAEC;
+    color: floralwhite;
+    font-family:inherit;
+    font-size: 24px;
+    margin-bottom: 34px;
+    margin-left: 20px;
+}
+.grup{
+    display: inline;
+    display: flex;
+}
+.foto{
+    margin-left: 20px;
+}
+
+.description{
+    color: #7C8B88;
+    font-family:cursive;
+    padding-left: 20px;
+}
